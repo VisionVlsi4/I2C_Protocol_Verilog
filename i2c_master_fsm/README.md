@@ -269,16 +269,4 @@ i2c_master_fsm/
 
 ---
 
-# Author
 
-**SIGATAPU GHYANAKAMESWARI**
-
-**B.Tech – Electronics and Communication Engineering**
-
-**Areas of Interest**
-
-- RTL Design
-- Digital VLSI
-- FPGA Design
-- ASIC Design
-- Verilog HDL
